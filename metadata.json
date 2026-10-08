@@ -1,0 +1,6 @@
+{
+  "name": "Dent Chula Workload Tracker",
+  "description": "ระบบติดตามภาระงานสำหรับคณะทันตแพทยศาสตร์ จุฬาฯ ที่เชื่อมโยงกับ Google Sheets ค้นหาข้อมูลได้รายเดือนและรายสัปดาห์ พร้อมระบุสถานะงานเสร็จสิ้นได้ทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
